@@ -17,4 +17,5 @@ int fact(int n){
 	else {
 	return 1;
 	}	
-return 1;	}
+    return 0;
+	}
